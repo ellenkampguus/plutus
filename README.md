@@ -1,6 +1,6 @@
 # Plutus Bitcoin Brute Forcer
 
-A Bitcoin wallet collider that brute forces random wallet addresses
+A Bitcoin wallet collider that brute forces random wallet addresses.
 
 # Like This Project? Give It A Star
 
@@ -79,10 +79,10 @@ The memory consumption stack trace was made by using <a href="https://pypi.org/p
 
 - [X] Fixed typos/formatting
 
-- [ ] Update database
+- [ ] Update database (made a fork of the original project to work on this)
 
 - [ ] Pickle loader
 
 - [ ] Try to fix Memory Error
 
-<a href="https://github.com/Isaacdelly/Plutus/issues">Create an issue</a> so I can add more stuff to improve
+<a href="https://github.com/Isaacdelly/Plutus/issues">Create an issue</a> so original owner/creator can add more stuff to improve.
