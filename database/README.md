@@ -4,7 +4,7 @@ This database is a serialized `set()` of all Bitcoin addresses with a positive b
 
 The database was created using a third-party program: <a href="https://github.com/graymauser/btcposbal2csv">btcposbal2csv</a> which generates a csv file of all Bitcoin addresses with a positive balance. The csv file was converted into a set and the set was serialized into several `.pickle` files each holding 1,000,000 P2PKH Bitcoin addresses. When the program runs, the files in the database get deserialized and combined to be used for a balance query.
 
-The name of the database folder is the date when the database was last updated in month_day_year format. The database will be updated every 3-6 months.
+The name of the database folder is the date when the database was last updated in month_day_year format. The database will be updated every 3-6 months, but that didn't happen, so I am working on that now.
 
 ### How Many Addresses Does The Database Have?
 
